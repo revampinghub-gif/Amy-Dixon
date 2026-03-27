@@ -148,7 +148,14 @@ const achievements = [
 ];
 
 const education = [
+  { qualification: "A Levels — Art, Drama & Textiles (Howard of Effingham, 2004)" },
+  { qualification: "GCSEs — English Lit, English Lang, Maths, Double Science, French, Textiles, Art & Drama (Tormead Girls School, 2002)" },
   { qualification: "NVQ3 Pharmaceutical Dispensing" },
+  { qualification: "Medicine Counter Assistant Certificate" },
+  { qualification: "Basic Food Hygiene Certificate" },
+  { qualification: "2D CAD LT" },
+  { qualification: "NAEA NVQ2 (incomplete)" },
+  { qualification: "All Ballet, Tap and Jazz Exams — Completed With Honours" },
 ];
 
 const profDev = [

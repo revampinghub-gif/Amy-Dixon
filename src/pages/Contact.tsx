@@ -35,7 +35,7 @@ export default function Contact() {
                 <Mail size={18} className="text-executive-gold" />
                 Amyslittletreat@hotmail.co.uk
               </a>
-              <a href="https://linkedin.com/in/amylouisedixon" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sm font-body text-executive-slate hover:text-executive-gold transition-colors">
+              <a href="https://www.linkedin.com/in/amylouisedixon" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sm font-body text-executive-slate hover:text-executive-gold transition-colors">
                 <Linkedin size={18} className="text-executive-gold" />
                 linkedin.com/in/amylouisedixon
               </a>
